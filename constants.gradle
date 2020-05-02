@@ -26,7 +26,7 @@ project.ext {
     androidxLegacyVersion = "1.0.0"
     junitVersion = "4.13"
 
-    gradleVersion = "3.5.2"
+    gradleVersion = "4.1.0-alpha08"
     buildTools = "29.0.3"
     minSdk = 15
     compileSdk = 29
