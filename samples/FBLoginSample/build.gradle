@@ -21,7 +21,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion compileSdk
+    compileSdkVersion project.ext.compileSdk
     buildToolsVersion buildTools
     defaultConfig {
         applicationId "com.facebook.fbloginsample"
