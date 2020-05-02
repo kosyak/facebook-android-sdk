@@ -20,7 +20,7 @@
 
 package com.facebook.appevents.integrity;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.ml.ModelManager;

@@ -20,8 +20,9 @@
 
 package com.facebook.internal.instrument.crashreport;
 
-import android.support.annotation.Nullable;
-import android.support.annotation.RestrictTo;
+import android.os.Process;
+import androidx.annotation.Nullable;
+import androidx.annotation.RestrictTo;
 import android.util.Log;
 
 import com.facebook.FacebookSdk;
